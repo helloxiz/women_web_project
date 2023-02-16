@@ -171,7 +171,7 @@ h1, h2, h3{
     /* Set border properties, padding, and background color */
     background-color: white;
     border: 3px solid #23074b;
-    /* border-radius: 20px; */
+    border-radius: 20px;
     padding: 10px;
 }
 
